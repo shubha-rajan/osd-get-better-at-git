@@ -1,3 +1,1 @@
-# This file will be used to discuss the fancy themes
-1. We will have Animal farm theme which will have cute little animals info
-
+# Added theme
